@@ -16,5 +16,8 @@ Initial Security()
 
 Master : Security Patch applied
 
+<<<<<<< HEAD
 Feature1: Added the features of 1
+=======
 Feature 2: Added the features by 2
+>>>>>>> Feature2
